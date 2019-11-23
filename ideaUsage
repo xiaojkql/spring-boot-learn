@@ -1,0 +1,11 @@
+ctl+u 会在相关类下出现它的父类的链接，可以打开父类
+alt+insert 调出getter/setter toString模板方法
+
+当写完一个new 对象时 可以使用alt+enter引入局部变量
+可以用alt+o找出overide方法
+
+在一个方法名后按下ctrl + shif + enter 可以调出{}
+
+alt+enter可以帮我自动导入包
+
+ctrl+h 找到实现类
